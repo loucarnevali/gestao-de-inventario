@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>standard</category>
+        <css>.panel {&#13;
+  position: relative;&#13;
+  width: 100%;&#13;
+}&#13;
+&#13;
+.panel-heading {&#13;
+  padding: 10px&#13;
+}&#13;
+&#13;
+.panel-heading i {&#13;
+  cursor: pointer;&#13;
+  position: absolute;&#13;
+  padding: 10px;&#13;
+  top: 0px;&#13;
+  right: 0px;&#13;
+  cursor: pointer;&#13;
+}&#13;
+&#13;
+.disabled-filter {&#13;
+	color: #A0A0A0;&#13;
+}&#13;
+&#13;
+.list-group-item{&#13;
+  padding: 10px;&#13;
+}&#13;
+&#13;
+.list-group-item.ng-enter {&#13;
+  transition: all 1s;&#13;
+  -webkit-transition: all 1s;&#13;
+&#13;
+  background-color: #c0dcfa;&#13;
+}&#13;
+&#13;
+.list-group-item.ng-enter-active {&#13;
+  background-color: #fff;&#13;
+}&#13;
+&#13;
+.hide-x-overflow {&#13;
+  overflow-x: hidden;&#13;
+}&#13;
+&#13;
+.translated-html &gt; p {&#13;
+  margin: 0px;&#13;
+  padding: 0px;&#13;
+}&#13;
+&#13;
+IMG {&#13;
+  max-width: 320px;&#13;
+  max-height: 240px;&#13;
+}&#13;
+&#13;
+IMG.img-sm {&#13;
+  max-height: 40px;&#13;
+  max-width: 40px;&#13;
+}&#13;
+&#13;
+.filter-box {&#13;
+  margin-top: 10px;&#13;
+}&#13;
+&#13;
+.panel-footer {&#13;
+  .number-shown-label {&#13;
+    margin-top: 0;&#13;
+    margin-bottom: 0;&#13;
+    font-size: 16px;&#13;
+    display: inline-block;&#13;
+  }&#13;
+&#13;
+  a {&#13;
+    color: inherit;&#13;
+  }&#13;
+}&#13;
+&#13;
+.panel-title .fa {&#13;
+    padding-right: 4px;&#13;
+}&#13;
+&#13;
+.list-group-item &gt; a {&#13;
+	display: inline-block;&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure>%table %t form</dynamic_title_structure>
+        <human_readable_url_structure/>
+        <id>copy_of_form_chipchoice</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <seo_script/>
+        <short_description>Record Form</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:45:25</sys_created_on>
+        <sys_id>fbf3de8947c73110a7b7cbb9316d430f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>copy_of_form_chipchoice</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope>
+        <sys_update_name>sp_page_fbf3de8947c73110a7b7cbb9316d430f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:48:46</sys_updated_on>
+        <title>Copy of Form ChipChoice</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=fbf3de8947c73110a7b7cbb9316d430f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</application>
+        <file_path/>
+        <instance_id>5d9f6f1cdbce31d439639027c596198f</instance_id>
+        <instance_name>dev190221</instance_name>
+        <name>sp_page_fbf3de8947c73110a7b7cbb9316d430f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>standard</category><css>.panel {&#13;
+  position: relative;&#13;
+  width: 100%;&#13;
+}&#13;
+&#13;
+.panel-heading {&#13;
+  padding: 10px&#13;
+}&#13;
+&#13;
+.panel-heading i {&#13;
+  cursor: pointer;&#13;
+  position: absolute;&#13;
+  padding: 10px;&#13;
+  top: 0px;&#13;
+  right: 0px;&#13;
+  cursor: pointer;&#13;
+}&#13;
+&#13;
+.disabled-filter {&#13;
+	color: #A0A0A0;&#13;
+}&#13;
+&#13;
+.list-group-item{&#13;
+  padding: 10px;&#13;
+}&#13;
+&#13;
+.list-group-item.ng-enter {&#13;
+  transition: all 1s;&#13;
+  -webkit-transition: all 1s;&#13;
+&#13;
+  background-color: #c0dcfa;&#13;
+}&#13;
+&#13;
+.list-group-item.ng-enter-active {&#13;
+  background-color: #fff;&#13;
+}&#13;
+&#13;
+.hide-x-overflow {&#13;
+  overflow-x: hidden;&#13;
+}&#13;
+&#13;
+.translated-html &gt; p {&#13;
+  margin: 0px;&#13;
+  padding: 0px;&#13;
+}&#13;
+&#13;
+IMG {&#13;
+  max-width: 320px;&#13;
+  max-height: 240px;&#13;
+}&#13;
+&#13;
+IMG.img-sm {&#13;
+  max-height: 40px;&#13;
+  max-width: 40px;&#13;
+}&#13;
+&#13;
+.filter-box {&#13;
+  margin-top: 10px;&#13;
+}&#13;
+&#13;
+.panel-footer {&#13;
+  .number-shown-label {&#13;
+    margin-top: 0;&#13;
+    margin-bottom: 0;&#13;
+    font-size: 16px;&#13;
+    display: inline-block;&#13;
+  }&#13;
+&#13;
+  a {&#13;
+    color: inherit;&#13;
+  }&#13;
+}&#13;
+&#13;
+.panel-title .fa {&#13;
+    padding-right: 4px;&#13;
+}&#13;
+&#13;
+.list-group-item &gt; a {&#13;
+	display: inline-block;&#13;
+}</css><draft>false</draft><dynamic_title_structure>%table %t form</dynamic_title_structure><human_readable_url_structure/><id>copy_of_form_chipchoice</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles>snc_external,snc_internal</roles><seo_script/><short_description>Record Form</short_description><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 00:45:25</sys_created_on><sys_id>fbf3de8947c73110a7b7cbb9316d430f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>copy_of_form_chipchoice</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope><sys_update_name>sp_page_fbf3de8947c73110a7b7cbb9316d430f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 00:48:46</sys_updated_on><title>Copy of Form ChipChoice</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=fbf3de8947c73110a7b7cbb9316d430f"/></record_update>]]></payload>
+        <payload_hash>876065197</payload_hash>
+        <record_name>copy_of_form_chipchoice</record_name>
+        <reverted_from/>
+        <source>a4e34fc047c7f110a7b7cbb9316d43da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:48:46</sys_created_on>
+        <sys_id>74c45ec947c73110a7b7cbb9316d431b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5132b4cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:48:46</sys_updated_on>
+        <type>Page</type>
+        <update_guid>3cc45ec943c73110d4cc8c7d1e60fd1a</update_guid>
+        <update_guid_history>3cc45ec943c73110d4cc8c7d1e60fd1a:876065197,83445ec903c7311038159cfdb3db6812:427783574,3bf3d6c9bcc73110b30f7d04e9ec399e:-748240495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_form_chipchoice">4ca5d64d47c73110a7b7cbb9316d434a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:52:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>84b5f11c391b4eda9bab2375d5b1e229</sys_id>
+        <sys_metadata>fbf3de8947c73110a7b7cbb9316d430f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_form_chipchoice</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope>
+        <sys_scope_delete display_value="">3779cb1043a9442680f1b44bf79e5704</sys_scope_delete>
+        <sys_update_name>sp_page_fbf3de8947c73110a7b7cbb9316d430f</sys_update_name>
+        <sys_update_version display_value="sp_page_fbf3de8947c73110a7b7cbb9316d430f">74c45ec947c73110a7b7cbb9316d431b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:52:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

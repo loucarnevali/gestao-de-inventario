@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>form-parent</class_name>
+        <container_class_name>form-container</container_class_name>
+        <name>Copy of Form ChipChoice - Container 1</name>
+        <order>1</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_form_1">fbf3de8947c73110a7b7cbb9316d430f</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:45:26</sys_created_on>
+        <sys_id>bbf3d6c947c73110a7b7cbb9316d439f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Copy of Form ChipChoice - Container 1</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope>
+        <sys_update_name>sp_container_bbf3d6c947c73110a7b7cbb9316d439f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:46:44</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</application>
+        <file_path/>
+        <instance_id>5d9f6f1cdbce31d439639027c596198f</instance_id>
+        <instance_name>dev190221</instance_name>
+        <name>sp_container_bbf3d6c947c73110a7b7cbb9316d439f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>form-parent</class_name><container_class_name>form-container</container_class_name><name>Copy of Form ChipChoice - Container 1</name><order>1</order><semantic_tag/><sp_page display_value="copy_of_form_1">fbf3de8947c73110a7b7cbb9316d430f</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 00:45:26</sys_created_on><sys_id>bbf3d6c947c73110a7b7cbb9316d439f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Copy of Form ChipChoice - Container 1</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope><sys_update_name>sp_container_bbf3d6c947c73110a7b7cbb9316d439f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 00:46:44</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-995444874</payload_hash>
+        <record_name>Copy of Form ChipChoice - Container 1</record_name>
+        <reverted_from/>
+        <source>a4e34fc047c7f110a7b7cbb9316d43da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:46:44</sys_created_on>
+        <sys_id>4b449a8947c73110a7b7cbb9316d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5130d8000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:46:44</sys_updated_on>
+        <type>Container</type>
+        <update_guid>cf449a8945c73110d1b2430e5f474ba4</update_guid>
+        <update_guid_history>cf449a8945c73110d1b2430e5f474ba4:-995444874,73f3d6c928c73110d7e20e89b215bfa1:1160454214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Form ChipChoice - Container 1">00a5d64d47c73110a7b7cbb9316d4345</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 00:52:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>93af292ec53c499698762c4fbc22f7c4</sys_id>
+        <sys_metadata>bbf3d6c947c73110a7b7cbb9316d439f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Form ChipChoice - Container 1</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258947_gest_o_0">39cb544c47cbb110a7b7cbb9316d4321</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">39cb544c47cbb110a7b7cbb9316d4321</sys_scope>
+        <sys_scope_delete display_value="">3779cb1043a9442680f1b44bf79e5704</sys_scope_delete>
+        <sys_update_name>sp_container_bbf3d6c947c73110a7b7cbb9316d439f</sys_update_name>
+        <sys_update_version display_value="sp_container_bbf3d6c947c73110a7b7cbb9316d439f">4b449a8947c73110a7b7cbb9316d43a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 00:52:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
